@@ -26,7 +26,7 @@ void bbubblesort(int *arr,int n){
 }
 }
 int main(){
-    int arr[]={3,76,2,12,45,64};
-    bbubblesort(arr,6);
+    int arr[]={98,76,43,1,2,56,78,64,67};
+    bbubblesort(arr,9);
     return 0;
 }
